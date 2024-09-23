@@ -1,6 +1,6 @@
 # Rendering Qualtrics Questions Dynamically Based on User Metadata
 
-This repo provides code for showing different Qualtrics questions to different survey participants based on any of their metadata (e.g. email, age, etc.).
+This repo provides code for showing different Qualtrics questions to different survey participants based on their metadata (e.g. email, age, etc.).
 
 `autofill_question_code.js` is for cutomizing autofill suggestions, while `multiple_choice_question_code` is for showing different options in multiple choice questions.
 
